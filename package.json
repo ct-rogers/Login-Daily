@@ -1,0 +1,24 @@
+{
+  "private": true,
+  "name": "sitelogin-daily",
+  "version": "1.0.0",
+  "description": "Login Page",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url":
+  },
+  "author": "Todd Rogers",
+  "license": "ISC",
+  "bugs": {
+    "url":
+  },
+  "homepage": "https://github.com/ct-rogers/Login-Daily#readme",
+  "dependencies": {
+    "mustache-express": "^1.2.5"
+  }
+}

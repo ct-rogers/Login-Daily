@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>You Are Logged In!</title>
+  </head>
+  <body>
+    <h1>You Are Logged In!</h1>
+    <p>Your User Name: {{userName}}</p>
+    <p>Your password: {{password}}</p>
+  </body>
+</html>

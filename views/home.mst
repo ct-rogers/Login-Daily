@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Login Daily Project</title>
+  </head>
+  <body>
+    <p>Log-In Below</p>
+    <form class="loginAction" action="/login" method="post">
+      <label for="userName">Username:</label>
+      <input type="text" name="userName" placeholder="Username">
+      <label for="password">Password:</label>
+      <input type="text" name="password" placeholder="Password">
+      <button type="submit" name="button">Button</button>
+    </form>
+  </body>
+</html>
